@@ -1,0 +1,24 @@
+/.idea*
+/.idea/*
+/workspace.xml
+/target*
+/target/*
+/*.iml
+/.settings
+/.metadata
+/.project
+/RemoteSystemsTempFiles
+/bin/*
+/bin/
+/.classpath
+/.allure
+/allure-report*
+/test-output*
+/build*
+/out*
+/allure-results*
+PM PULL_REQUEST_TEMPLATE.md
+/PM PULL_REQUEST_TEMPLATE.md
+/*PM PULL_REQUEST_TEMPLATE.md
+/ios-iphone-automation*
+/debug*
